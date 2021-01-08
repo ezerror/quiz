@@ -1,3 +1,3 @@
 # quiz
 
-学习视频而来的一个FLutter APP,本身为一个答题小游戏.
+涓�涓狥Lutter APP,鏈韩涓轰竴涓瓟棰樺皬娓告垙.
